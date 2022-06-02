@@ -15,6 +15,7 @@ Inputs / Outputs
 ---
 
 **PIN 0** : Output to the pump (HIGH on, LOW off).
+
 **PIN 26** : ADC moisture sensor input.
 
 **USB serial** : Sends moisture (ADC voltage) and temperature (Celcius) every 10 seconds.
