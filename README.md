@@ -1,5 +1,5 @@
 # pico_water
-Automated plant watering with the Raspberry Pi Pico. This runs a monitoring loop on the second RP2040 core to obtain moisture from an external moisture sensor, and temperature from the built in temperature sensor on the Pico board. Below a given moisture threshold, a pump is periodically engaged until the threshold is reached again. Your mileage may very with the default thresholds!
+Automated plant watering with the Raspberry Pi Pico. This runs a monitoring loop on the second RP2040 core to obtain moisture from an external moisture sensor, and temperature from the built in temperature sensor on the Pico board. Below a given moisture threshold, a pump is periodically engaged until the threshold is reached again. *Your mileage may very with the default thresholds!*
 
 Build instructions
 ---
